@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lunch-decision-dashboard",
+  "private_key_id": "77b7e9aed81f943a8c19b3dbe3aded195a59ab04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMcMIeURVOvjN5\nR20sZyqr8na525GYoW+xvL7Pc7WCIBRo4JkdCMieraE/bkBif9vKxQXqrKXT31+0\n7/K6DQQr4BZ40dZSLcnBcGzEMyQkRk4zOP4ypu6ibIBTF1VUgDEo1fp4+rwTpvae\nW5aH/Y0iBYDm5WypLpdViezNREnp4lP5wXAMpoZnlAFGX7+Z32yXtZqLK4137eB4\nsgcJwelKnv28qDsZzdcNDtxBn4Gtb3akCytpdWDJ7++mzQ3jWdJpyRvcvvUJQ0zm\nvEGovAVTX++nikkLuCfmSBkR5m/W/ogfURY4Pr4vhUcbmb/jvdaT/7J19ut3wCPd\n1JU9J28pAgMBAAECggEACKFRPHkfYV2Dp/au+Tdpwk70vsrOFhUtkPM8vfDOfQkE\nfKFmXiyH3UBlXUmAJM1onY38gKoDErgpKZn7cuxIalb0xf3pXY4CeqPpREyx8ky2\nAKSq8kR2aVmhQtVSqlcYCbEW0D3QNlxgYVMfyRz8769Gm9d38KdGcSo35lXXz8rA\nHeRQk+JxbUvq+BRB0qh2+KLq3u6s6UxOarJ7kZDyHwDHetRVxOQjS6HoRXHPmE5u\nu7KL9c5oHqQJmfpdLYRbObyR08jyJPgtjZCaEvTsw6dR5+p5RhPGHcGXuYNsq+C9\n5AmE8sZTtoX7pNPJ90m240JdfdHpToaY3YBBjuvH9QKBgQC+cbAhjtkvMoum+edH\nIKHzXag6YwseDif70JLvKxEiI1STv5bQfJpSeNj4po09FFsYjoL/y0X0RlkNGo3+\ntZb3Lqk9pszsGHbJKeX4CbuYiJOSHbnkZobm+3fhyOIHEza94beMjLwwx7nSLTlO\nkTb+sgILM+IsQM/9tOJ6xCW0rwKBgQC8yKafFwqLW3NBJ2NPKSxxcnOoc0p/tL2C\n79JXtvTCZfk1hERwvQbT856uCtWBS+GHsZQkgyoUdmTXwjwLKdmC7mwFYaOZNua1\nAkTaPEYoKH+20zWGN/3MRDcbw2jLyoKnT7L+E+Cncy7yGKqQrIL7WG0Z3+1WOHXw\nxq66dUC/pwKBgGYUGgxivRcHSMOff9AoNaZ0tQ9Wt0bM37GiAqAfvXdG6LapIvVt\nVGqQS/w7ickLeCiZeq4RDtX4PxM/AI1eWCT15dEd7wk9s63vv0xMKzl/O1o+hL1g\nFz8H2yIywrR4IAd3TSMQ7G5ZH8kAZI8wVwH9+Ap5LOn7c4DRy/Nx36QRAoGBAI7Y\n7Wt4DdyBKGbmnPirWRvG1Mlj471aUAQh3/HLWM04SCg8m2ULQ31h3HIpdIDPoCoD\nLuup7E9rfsbcDH8N/a5bJpWz2gz3Q/83Zk4USandazY1/0w+VecYvvJdHJEH/XEI\nl5I2DEnomF9MVtP+FWaG9JcdoAMb2fKFBHXGf2YFAoGAWG2PzLhOtouE4K8wqSLd\nS65HD5788USgR4/QSjLJykxFiJCk3f3pl/gPy/+t2Hpc48wkQm1tVS3kX+ho6nta\naevYjNBt7Ft+wUClHyzxxUD9DoSKauscAbiPp9JtnEi4gEnJ+Qm//5zX5XqhMLAh\ntgoP+uyZapeEZiisHl01xwU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dashboardservices@lunch-decision-dashboard.iam.gserviceaccount.com",
+  "client_id": "110014876961604318673",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dashboardservices%40lunch-decision-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
